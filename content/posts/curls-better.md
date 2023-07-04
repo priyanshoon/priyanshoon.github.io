@@ -8,7 +8,7 @@ draft: true
 ![](https://media.tenor.com/l0GePn6BEegAAAAd/hellinheavns.gif)
 
 # Indroduction
-curl is a command-line tool to transfer data to or from a server,
+Curl is a command-line tool to transfer data to or from a server,
 using any of the supported protocols (HTTP, FTP, IMAP, POP3, SCP, SFTP, SMTP, TFTP, TELNET, LDAP, or FILE).
 This tool is preferred for automation since it is designed to work without user interaction.
 curl can transfer multiple files at once.
@@ -34,7 +34,7 @@ curl example.com
 ![](/use-curl-better/first.png)
 
 ### GET and show me the response headers: \
-This will show us the headers content of the network
+This will show us the headers content of the network with body.
 {{< highlight fish >}}
 curl -i https://example.com/
 {{< /highlight >}}
