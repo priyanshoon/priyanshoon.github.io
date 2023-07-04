@@ -3,4 +3,4 @@ title: "Contact"
 ---
 - [Instagram](https://instagram.com/priyanshoon)
 - [Telegram](https://telegram.org/)
-- [LinkedIn](https://linkedin.com/in/priyanshoon) (For dating perpose)
+- [LinkedIn](https://linkedin.com/in/priyanshoon) (For stalking perpose)

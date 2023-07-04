@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "My internet corner"
-  copyright = "Copyright © 2023 priyanshoon"
+  copyright = "Copyright © 2023 priyanshoon.xyz"
   dark = "auto"
   highlight = true
 
