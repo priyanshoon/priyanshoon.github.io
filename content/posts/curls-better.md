@@ -2,7 +2,7 @@
 title: Use Curl Better
 date: "2023-07-04"
 description: "Use curl better. Curl is a command line utility used for transfering data"
-draft: true
+draft: false
 ---
 
 ![](https://media.tenor.com/l0GePn6BEegAAAAd/hellinheavns.gif)
@@ -14,7 +14,11 @@ This tool is preferred for automation since it is designed to work without user 
 curl can transfer multiple files at once.
 
 Curl is also fav among most of the hacker as wall as cracker too.
-Curls also helps in data scraping.
+Curls helps in data scraping and also in API endpoint testing.
+
+Btw before when I was not familiar with curl I used to use postman for api testing (a very good tool)
+but it takes too much ram over the time in background. The moment I got taste of true minimalism from Bugswriter (search on yt)
+I felt the power. It not only gives me confidence but boost my productivity over time too.
 
 Curl has minimal behavior by default
 - Basic set of headers
@@ -101,5 +105,12 @@ Curl to send the passed data to the server in the body of the HTTP message
 curl -d name=Puchu -i https://example.com/reciever
 {{< /highlight >}}
 
-### POST a file using curl
+## Conclusion
+There is still too much in this tool which I could not cover in this blog. I have covered most of
+the topic which is based in daily usages so I guess that shit and if you want to dig more.
+into it just google it.
+This is the first blog I have ever written
+so if you find any mistakes in here feel free to contact me vai telegram or other sources mention in contacts
+or just ignore the way you ignore your problems. I am also attaching a video below from where I took these reference.
 
+{{< youtube I6id1Y0YuNk >}}
