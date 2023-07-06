@@ -1,6 +1,6 @@
 ---
 title: Use Curl Better
-date: "2023-07-04"
+date: "2023-07-06"
 description: "Use curl better. Curl is a command line utility used for transfering data"
 draft: false
 ---
