@@ -12,7 +12,3 @@ I also love mathematics (saare ques nhi hote baat alag hai but yeah) I love it.
 
 ![](https://media.tenor.com/sr22zUA1S4wAAAAC/mr-robot-elliot-alderson.gif)
 
-I have few goals for this year listed below
-- CCNA 200-301
-- CRTP
-
