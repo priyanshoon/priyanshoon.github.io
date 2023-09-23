@@ -28,13 +28,6 @@ pygmentsUseClasses = true
     url = "/about/"
     weight = 20
 
-  [[menu.main]]
-    identifier = "contact"
-    name = "contact"
-    title = "contact"
-    url = "/contact/"
-    weight = 20
-
 [permalinks]
   posts = "/:title/"
 
