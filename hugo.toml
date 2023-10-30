@@ -1,6 +1,6 @@
 baseURL = 'http://priyanshoon.xyz/'
 languageCode = 'en-us'
-title = 'Priyanshoon'
+title = 'priyanshoon'
 theme = 'etch'
 enableInlineShortcodes = true
 pygmentsCodeFences = true
