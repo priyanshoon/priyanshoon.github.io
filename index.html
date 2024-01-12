@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<h2>Hello, Friends!</h2>
+<blockquote cite="">
+I Intend To Choose My Own Path
+</blockquote>
+<img src="https://media1.tenor.com/m/5fXOP8eurtkAAAAC/mr-robot.gif" height=150 width=1000 alt="">
+<br>
+<br>
+In the intricate web of my existence, I am Priyanshu Prasad Gupta, a
+20-year-old aficionado of unraveling the complexities of computers and
+electronics. Mathematics and philosophy are not just subjects; they are the
+tools with which I navigate the intricate labyrinths of thought. Each circuit,
+each equation, is a puzzle to be solved in the enigma of life’s grand design. I
+am Priyanshu Prasad Gupta, a silent observer in the symphony of logic and
+contemplation.
+<br>
+<br>
+<h2>Blogs</h2>
+<ul>
+    {% for post in paginator.posts %}
+      <li>
+          <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+      </li>
+    {% endfor %}
+</ul>
