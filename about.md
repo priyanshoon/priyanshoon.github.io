@@ -15,10 +15,13 @@ I watched many movies and some animes here's what I enjoyed/relate the most.
 |------|------|--------|
 |Fight Club|Demon Slayer|Alice in Borderland|
 |Drive|Attack On Titans|The Railway Mens|
-|Love Aaj kal|Classroom of Elites|Dark|
+|Love Aaj kal|Classroom of Elites|Mr. Robot|
 |Interstellar|Monster|Breaking Bad|
 |DDLJ||The Big Bang Theory|
-|||The Office|
+|A Beautiful Mind||The Office|
+|The Imitation Game||Dark|
+|Good Will Hunting||Silicon Valley|
+|||Game of Thrones|
 
 
 |Books|Books I will read in future|
