@@ -5,7 +5,7 @@ description: "Use curl better. Curl is a command line utility used for transferi
 published: true
 ---
 
-![](https://media.tenor.com/l0GePn6BEegAAAAd/hellinheavns.gif)
+<img src="https://media.tenor.com/l0GePn6BEegAAAAd/hellinheavns.gif" height="400" width="1000"/>
 
 # Indroduction
 Curl is a command-line tool to transfer data to or from a server,
