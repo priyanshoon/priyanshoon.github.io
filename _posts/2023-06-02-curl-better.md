@@ -113,4 +113,3 @@ so if you find any mistakes in here feel free to contact me vai telegram or othe
 or just ignore the way you ignore your problems. I am also attaching a video below from where I took these reference.
 
 [![YouTube Link](https://img.youtube.com/vi/I6id1Y0YuNk/0.jpg)](https://www.youtube.com/watch?v=I6id1Y0YuNk)
-{{< youtube I6id1Y0YuNk >}}

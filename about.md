@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Alt text](https://media1.tenor.com/m/ZfQJyYF7_pgAAAAd/arpit-bala-celebration.gif "a title")
+<img src="https://media1.tenor.com/m/ZfQJyYF7_pgAAAAd/arpit-bala-celebration.gif"  width="1000" height="350"/>
 
 Hello, My name is Priyanshu Prasad Gupta from West Bengal, India. I love to
 tinker with computers and electronics. I am an undergrad student studying
