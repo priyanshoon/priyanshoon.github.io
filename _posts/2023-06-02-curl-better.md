@@ -2,6 +2,7 @@
 title: Use Curl Better
 date: "2023-07-06"
 description: "Use curl better. Curl is a command line utility used for transfering data"
+comments: true
 published: true
 ---
 
@@ -113,3 +114,23 @@ so if you find any mistakes in here feel free to contact me vai telegram or othe
 or just ignore the way you ignore your problems. I am also attaching a video below from where I took these reference.
 
 [![YouTube Link](https://img.youtube.com/vi/I6id1Y0YuNk/0.jpg)](https://www.youtube.com/watch?v=I6id1Y0YuNk)
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-priyanshoon-xyz.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

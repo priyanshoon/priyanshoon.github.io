@@ -9,6 +9,11 @@ Hello, My name is Priyanshu Prasad Gupta from West Bengal, India. I love to
 tinker with computers and electronics. I am an undergrad student studying
 __Information Technology__. I love to play chess and badminton at my free time.
 
+Socials -
+[GitHub](https://github.com/priyanshoon)
+[X.com](https://x.com/priyanshoon)
+[LinkedIn](https://linkedin.com/in/priyanshoon)
+
 I watched many movies and some animes here's what I enjoyed/relate the most.
 
 |Movies|Animes|TV Shows|
