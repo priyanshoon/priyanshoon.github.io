@@ -22,7 +22,7 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
   --background: #121313;
-  --foreground: #EAEAEA;
+  --foreground: #CBCBCA;
   --accent: #ff6b01;
   --muted: #343f60;
   --border: #ab4b08;
