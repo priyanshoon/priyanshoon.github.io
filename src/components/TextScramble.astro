@@ -1,0 +1,41 @@
+---
+const { text } = Astro.props;
+---
+
+<div class="scramble">{text}</div>
+
+<script>
+  const letters = "!<>-_\\/[]{}—=+*^?#________";
+
+  function scrambleText(el: HTMLElement, newText: string) {
+    let iteration = 0;
+    const length = newText.length;
+
+    const interval = setInterval(() => {
+      const scrambled = newText
+        .split("")
+        .map((char: string, i: number) => {
+          if (i < iteration) {
+            return newText[i];
+          }
+          return letters[Math.floor(Math.random() * letters.length)];
+        })
+        .join("");
+
+      el.innerText = scrambled;
+
+      if (iteration >= length) {
+        clearInterval(interval);
+        el.innerText = newText;
+      }
+
+      iteration += 0.2;
+    }, 30);
+  }
+
+  const el = document.querySelector(".scramble");
+  if(el instanceof HTMLElement){
+      scrambleText(el, el.innerText);
+  }
+</script>
+
