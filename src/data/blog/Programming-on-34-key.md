@@ -3,7 +3,7 @@ title: Programming on 34 key
 author: Priyanshu Prasad Gupta
 pubDatetime: 2025-09-11
 featured: true
-draft: false
+draft: true
 tags:
   - keyboards
   - custom-made
