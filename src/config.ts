@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://github.com/priyanshoon/",
   desc: "this is my little corner on the world wide web where I give my unpopular opinions.",
   title: "priyanshoon",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "aizen_in_spec.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
