@@ -14,7 +14,7 @@ description: "I was just looking to buy a mechanical keyboard… then I fell int
 
 Yeah, excuse the drawing skills—I used to be decent at it, I swear. Anyway, let’s not get distracted by my *propaganda artwork*.
 
-# Keyboard Under 3K INR
+# "Keyboard Under 3K INR"
 
 Before this rabbit hole even started, I didn’t think much about keyboards. For me, a keyboard was just a tool—an input device to pass bytecode so my computer could do its magic and spit out human-readable code. Nothing more.
 
