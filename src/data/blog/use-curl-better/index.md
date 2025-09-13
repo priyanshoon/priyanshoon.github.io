@@ -7,7 +7,7 @@ draft: false
 tags:
   - cli
   - linux
-description: "cURL is like a browser without the UI—just pure, raw power to move data to and from servers. It’s the go-to tool for developers, sysadmins, and anyone who loves working close to the metal."
+description: "cURL is like a browser without the UI—pure power to move data to and from servers, a go-to tool for devs and sysadmins."
 ---
 
 

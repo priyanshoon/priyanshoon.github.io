@@ -7,7 +7,7 @@ draft: false
 tags:
   - keyboards
   - custom-made
-description: "I was just looking to buy a mechanical keyboard… then I fell into the rabbit hole and somehow ended up building a 34-key custom split. Now I can’t go back."
+description: "I just wanted a mechanical keyboard… but fell into the rabbit hole and built a 34-key custom split. No going back now."
 ---
 
 ![qtpie](../../assets/images/keeb.jpg)
