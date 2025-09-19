@@ -2,7 +2,7 @@
 title: Using Curl Better
 author: Priyanshu Prasad Gupta
 pubDatetime: 2023-07-06
-featured: true
+featured: false
 draft: false
 tags:
   - cli
