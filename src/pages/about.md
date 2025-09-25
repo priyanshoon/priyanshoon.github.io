@@ -17,6 +17,7 @@ training.
 | Death Becomes Her                | Mr. Robot       | Bleach         |
 | The Curious Case of Benjamin Button | Dabba Cartel | Demon Slayer   |
 | Laila Majnu                      | Breaking Bad    | Spy x Family   |
-| Rockstar                         |                 | Solo Leveling  |
+| Rockstar                         | True Detective                 | Solo Leveling  |
 | Animal                           |                 |                |
+| The Truman Show                  |                 |                |
 
