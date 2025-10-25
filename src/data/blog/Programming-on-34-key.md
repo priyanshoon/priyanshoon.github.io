@@ -62,7 +62,6 @@ I mostly stuck to the original layout from the blog, with a few tweaks. Being a 
 
 I’ll upload my full layout later, but honestly—you should research and design one that fits *your* workflow. That’s half the fun.
 
-![setup](../../assets/images/setup.jpg)
 ![wpm](../../assets/images/wpm.jpg)
 
 Here’s where I’m at after just 20 days on this keyboard. 🚀
