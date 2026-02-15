@@ -15,7 +15,7 @@ Things that exites me the most, and can serve as conversation starters for you:
 - Compiler and Programming Languages.
 
 ### Contact
-Send mail to priyanshoon@proton.me
+Send mail: **priyanshoon**[at]**proton**[dot]**me**
 
 
 <!-- ## Here are some shows and movies I liked. -->
