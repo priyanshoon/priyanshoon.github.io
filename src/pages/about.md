@@ -14,6 +14,8 @@ Things that exites me the most, and can serve as conversation starters for you:
 - Fitness, Strength training.
 - Compiler and Programming Languages.
 
+Apart from these I watch movies too, here is my [letterboxd link](https://letterboxd.com/priyanshoon/) (I recently started logging the movies I watch)
+
 ### Contact
 Send mail: **priyanshoon**[at]**proton**[dot]**me**
 
