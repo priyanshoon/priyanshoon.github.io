@@ -28,3 +28,6 @@ pnpm-debug.log*
 public/pagefind
 
 .direnv
+
+webring-key.txt
+
