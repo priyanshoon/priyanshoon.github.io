@@ -12,56 +12,103 @@ description: "I just wanted a mechanical keyboard… but fell into the rabbit ho
 
 ![qtpie](../../assets/images/keeb.jpg)
 
-Yeah, excuse the drawing skills—I used to be decent at it, I swear. Anyway, let’s not get distracted by my *propaganda artwork*.
+**update**: _previously I wrote this article with llm, now I am writing with bare fingers._
 
-# "Keyboard Under 3K INR"
+Back in Jul 2025 I decided to purchase a mechanical keyboard, before that I used to use membrane keyboard (yeah ik).
+So I started researching which keyboard would satisfy my needs and comes with in my budget (3k INR something).
+I have gone through everything about keyboard, like what are switches, normal 
+keyboard, split keyboard (the commercial one like kenesis) and many more things about keyboard. By the end of my
+research I came to know *man what the holy hell*. 
 
-Before this rabbit hole even started, I didn’t think much about keyboards. For me, a keyboard was just a tool—an input device to pass bytecode so my computer could do its magic and spit out human-readable code. Nothing more.
+I would have never imagined that keyboard could be so much expensive like fucking 30k, 60k INR. But anyways as my budget was
+not that much I decided to go with cosmic byte.
 
-That was until I tried my friend’s mechanical keyboard. Typing on it felt *elegant*—like my fingers were finally meant to be there. For the first time, I thought: *Maybe it’s time I upgraded my keyboard.*
+After placing an order for cosmic byte, at night I stumbled upon a youtube video (cosmic intervention). That video was
+talking about self made split ergonomic keyboard (that has only 34 keys in it). [Here the video link.](https://www.youtube.com/watch?v=unMXQTSQEak) 
 
-And so, the search began.
+Upon watching this video made me more curious, I cancelled my order for cosmic byte and started researching again about open source split keyboard
+There are many open source keyboards that are available in internet, like crkbd, ferris sweep (this one is mine), dactyle manuform, etc.
+Upon everything that's available, I decided to move forward with ferris sweep. Why?
+I don't know tbh, if I were to start again then I would have gone with crkbd instead. I followed
+this [article](https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/) to
+build and configure my ferris sweep. Also this is one of the reason I choosed ferris sweep because at the time of researching
+I observed that those who have build these types of keyboards are mainly foreigners. Then one who wrote that article was of my country
+(please don't take it in a wrong way, being from the same country assured me that I could get the all the parts for the build). 
 
-I set my budget at **3K INR**—not much by enthusiast standards, but it was my starting line. I wanted something customizable, but in this budget, that’s basically a unicorn. I almost settled for the **Cosmic Byte Phantom** or the **EvoFox Ronin**… but curiosity kept pushing me further.
+Now comes the parts that I hated the most. Sourcing the parts, especially the pcb for board (this alone haunted me for day and night).
 
-One random YouTube scroll later, I stumbled upon something that completely changed the game. Honestly, I wish I had found it sooner.
+When I ordered my pcb from [JLC PCB](https://jlcpcb.com/) I didn't know that time that ordering things from different country
+comes with additional import tax. On top of it people on discord said to me that India charges somewhat 70% on import tax if
+that was not business related. This shit haunted me so much, I don't have money.
+During that time I spend all my money in switches, keycaps, laser cut board and 
+other parts of keyboard including a soldering machine. Fortunatly the tax isn't that much that I was expecting but the courier charges are
+so unjustified. God Bless India.
 
-# Layout Quest
+So after gathering every parts I build the keyboard (finally). I won't document my build journey cuz there are many like
+[this article](https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/). Tho I will share something that I encountered after building.
 
-Most people think **QWERTY** is *the* layout. Some might know about **Dvorak**. But that’s just scratching the surface. There are countless layouts, and even custom ones that you can design yourself.
+Without trrs cable both of my keyboard working fine, but when I tried to use both while connecting with trrs the shit doesn's work.
+This is the moment I so exhausted. But the reason I found out that the cable I was using is not really trrs (the lable said that is was trrs but it was not).
+So I purchased a new cable and it started working fine. One more thing that annoyed me about this proccess is I can't find the
+m2 5mm screws (to till this date: 2026-05-02). I am using this keyboard just as it is.
 
-At that time, I only knew about full-sized, TKL, 70%, and 60% keyboards. Then I discovered something wilder—you can shrink it down even further. Sub-40%, sub-30%… layouts that look insane at first, but make perfect sense once you dive in.
+One more thing that I want to highlight in the proccess is, I changed my keyboard layout from qwerty to colemak (because why not).
+I thought like I am changing everything thing, why not the layout too.
 
-That’s when I found [Prajwal Nadig’s blog](https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/).
+Anyways, here is my speed after 20 days of using this ferris sweep keyboard.
 
-* That blog convinced me to build my own split keyboard.
-* That blog also convinced me to double my budget—from 3K to **6K INR**.
 
-# Preparation
 
-I decided on the [Ferris Sweep Bling MX](https://github.com/davidphilipbarr/Sweep)—wired version, because I like keeping things simple.
 
-### Components I needed:
 
-* 2× Pro Micro-compatible microcontrollers
-* 2× Pin headers
-* 34× MX switches
-* 34× Kailh hotswap sockets
-* 34× Keycaps
-* 2× TRRS jacks
-* 1× TRRS cable
-* 1× USB-C cable
-
-(Optional: reset switches for flashing, but you can just short the pins with a screwdriver if you’re brave enough).
-
-The switch and bottom plate files are in the repo. I skipped the bottom plate since I couldn’t source M2 screws locally.
-
-# My Layout
-
-I mostly stuck to the original layout from the blog, with a few tweaks. Being a *brofessional full-time Vim user™*, I had to prioritize arrows. I mapped them on the right hand—so for example, holding **Backspace** and pressing **N** gives me the **Down Arrow**.
-
-I’ll upload my full layout later, but honestly—you should research and design one that fits *your* workflow. That’s half the fun.
-
+<!-- # "Keyboard Under 3K INR" -->
+<!---->
+<!-- Before this rabbit hole even started, I didn’t think much about keyboards. For me, a keyboard was just a tool—an input device to pass bytecode so my computer could do its magic and spit out human-readable code. Nothing more. -->
+<!---->
+<!-- That was until I tried my friend’s mechanical keyboard. Typing on it felt *elegant*—like my fingers were finally meant to be there. For the first time, I thought: *Maybe it’s time I upgraded my keyboard.* -->
+<!---->
+<!-- And so, the search began. -->
+<!---->
+<!-- I set my budget at **3K INR**—not much by enthusiast standards, but it was my starting line. I wanted something customizable, but in this budget, that’s basically a unicorn. I almos t settled for the **Cosmic Byte Phantom** or the **EvoFox Ronin**… but curiosity kept pushing me further. -->
+<!---->
+<!-- One random YouTube scroll later, I stumbled upon something that completely changed the game. Honestly, I wish I had found it sooner. -->
+<!---->
+<!-- # Layout Quest -->
+<!---->
+<!-- Most people think **QWERTY** is *the* layout. Some might know about **Dvorak**. But that’s just scratching the surface. There are countless layouts, and even custom ones that you can design yourself. -->
+<!---->
+<!-- At that time, I only knew about full-sized, TKL, 70%, and 60% keyboards. Then I discovered something wilder—you can shrink it down even further. Sub-40%, sub-30%… layouts that look insane at first, but make perfect sense once you dive in. -->
+<!---->
+<!-- That’s when I found [Prajwal Nadig’s blog](https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/). -->
+<!---->
+<!-- * That blog convinced me to build my own split keyboard. -->
+<!-- * That blog also convinced me to double my budget—from 3K to **6K INR**. -->
+<!---->
+<!-- # Preparation -->
+<!---->
+<!-- I decided on the [Ferris Sweep Bling MX](https://github.com/davidphilipbarr/Sweep)—wired version, because I like keeping things simple. -->
+<!---->
+<!-- ### Components I needed: -->
+<!---->
+<!-- * 2× Pro Micro-compatible microcontrollers -->
+<!-- * 2× Pin headers -->
+<!-- * 34× MX switches -->
+<!-- * 34× Kailh hotswap sockets -->
+<!-- * 34× Keycaps -->
+<!-- * 2× TRRS jacks -->
+<!-- * 1× TRRS cable -->
+<!-- * 1× USB-C cable -->
+<!---->
+<!-- (Optional: reset switches for flashing, but you can just short the pins with a screwdriver if you’re brave enough). -->
+<!---->
+<!-- The switch and bottom plate files are in the repo. I skipped the bottom plate since I couldn’t source M2 screws locally. -->
+<!---->
+<!-- # My Layout -->
+<!---->
+<!-- I mostly stuck to the original layout from the blog, with a few tweaks. Being a *brofessional full-time Vim user™*, I had to prioritize arrows. I mapped them on the right hand—so for example, holding **Backspace** and pressing **N** gives me the **Down Arrow**. -->
+<!---->
+<!-- I’ll upload my full layout later, but honestly—you should research and design one that fits *your* workflow. That’s half the fun. -->
+<!---->
 ![wpm](../../assets/images/wpm.jpg)
-
-Here’s where I’m at after just 20 days on this keyboard. 🚀
+<!---->
+<!-- Here’s where I’m at after just 20 days on this keyboard. 🚀 -->
