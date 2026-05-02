@@ -8,7 +8,7 @@ I enjoy exploring things under the hood, diving into systems and problem-solving
 training.
 
 Things that exites me the most, and can serve as conversation starters for you:
-- Go Programming Language (I'm still learning tho).
+- System Programming Language (and python ofc).
 - Ergonomic Keyboards.
 - Backend Infrastructure & Distributed System.
 - Fitness, Strength training.
