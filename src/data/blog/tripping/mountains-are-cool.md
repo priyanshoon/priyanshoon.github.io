@@ -7,7 +7,7 @@ draft: false
 tags:
   - touch_grass
   - outing
-description: "Trip that to the small mountain that I can's forget."
+description: "Never have I ever imagined, that going on a small trek could make my mind so calm & clear."
 ---
 
 I went on a trip in November 2025 (if I remember correctly). I am a very indoor-type
