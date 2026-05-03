@@ -10,8 +10,7 @@ tags:
 description: "Trip that to the small mountain that I can's forget."
 ---
 
-I went on a trip in November 2025 (if I remember correctly). Let me give you
-some context about why I am writing this blog now. I am a very indoor-type
+I went on a trip in November 2025 (if I remember correctly). I am a very indoor-type
 person; I don’t meet new people or engage with many (not even my 2–3 friends).
 I am an introvert. It’s not that I don’t want to engage with people and have a
 good time, but I couldn’t let myself do that—I don’t know why. Since childhood,
