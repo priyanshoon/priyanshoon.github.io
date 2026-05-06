@@ -1,5 +1,5 @@
 ---
-title: Cooked Two Pizzas
+title: Cooked Pizzas
 author: Priyanshu Prasad Gupta
 pubDatetime: 2026-05-07
 featured: true
