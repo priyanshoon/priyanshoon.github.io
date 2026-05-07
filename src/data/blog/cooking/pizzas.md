@@ -11,16 +11,9 @@ description: "I made homemade pizza all by myself. And it was really great and d
 
 ![paneer pizza](./imgs/paneer_pizza.jpg) 
 
-Day before yesterday me and my mom were deciding what should be the dinner 
-tonight. Then out of nowhere my mom said, 
->oven kharide hi kyun hai humlog, jab usme cake ya pizza banate hi nhi tho. Such 
-a waste of money.
+Let's make pizza, no bullshit guide. I made 2 pizzas and proccess are almost same in both.
 
-Now for some extra context, my mom doesn't know how to operate oven other than just
-warming up the veggies and other foods. What about me? I don't know either :)
-
-That day we decided to make two pizzas (chicken & paneer). I chatgpt the recipe of chicken pizza and it was quite simple
-if you buy the dough from your local store. The ingredients that are required to make pizza are -
+# Ingredients
 
 - Pizza dough (ofc)
 - Pizza pasta sauce (I used knorr ones)
