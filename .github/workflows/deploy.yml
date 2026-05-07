@@ -20,6 +20,11 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v4
+      
+      - name: Configure pnpm
+        run: |
+          echo "only-built-dependencies=esbuild,sharp" >> .npmrc
+
       - name: Install, build, and upload your site
         uses: withastro/action@v3
         with:
