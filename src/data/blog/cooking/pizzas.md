@@ -11,7 +11,7 @@ description: "I made homemade pizza all by myself. And it was really great and d
 
 ![paneer pizza](./imgs/paneer_pizza.jpg) 
 
-Let's make pizza, no bullshit guide. I made 2 pizzas and proccess are almost same in both.
+Let's make pizza, no bullshit guide. I made 2 pizzas and process are almost same in both.
 
 # Ingredients
 
