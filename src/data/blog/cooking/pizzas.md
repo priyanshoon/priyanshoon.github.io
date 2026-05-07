@@ -2,7 +2,7 @@
 title: Cooked Pizzas
 author: Priyanshu Prasad Gupta
 pubDatetime: 2026-05-06
-featured: true
+featured: false
 draft: false
 tags:
   - cooking
