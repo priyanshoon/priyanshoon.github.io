@@ -99,7 +99,7 @@ print(evens)
 
 # Reduce
 
-The built-in [functools.reduce()](https://docs.python.org/3/library/functools.html#functools.reduce) function
+The builtin [functools.reduce()](https://docs.python.org/3/library/functools.html#functools.reduce) function
 takes a function and a list of values, and applies the function to each value
 in the list, _accumulating a single result_ as it goes.
 
