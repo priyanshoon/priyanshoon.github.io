@@ -2,7 +2,7 @@
 title: Python's map, filter, reduce & zip
 author: Priyanshu Prasad Gupta
 pubDatetime: 2026-05-11
-featured: true
+featured: false
 draft: false
 tags:
   - python
