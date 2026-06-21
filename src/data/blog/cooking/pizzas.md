@@ -66,4 +66,3 @@ paneer pizza is almost same, you just have replace paneer with chicken.
 I did all this in my first try, damn me... Also the photo at the starting of the blog
 is paneer pizza and the photo that I put below is chicken pizza (didn't add enough cheese in chicken pizza).
 
-![chiken pizza](./imgs/chicken_pizza.jpg) 

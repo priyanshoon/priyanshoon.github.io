@@ -12,8 +12,8 @@
         devShell = pkgs.mkShell {
           buildInputs=[
             pkgs.pnpm
-            pkgs.nodePackages.typescript
-            pkgs.nodePackages."@astrojs/language-server"
+            pkgs.typescript
+            pkgs.astro-language-server
           ];
         };
       }
