@@ -8,13 +8,12 @@ I enjoy exploring things under the hood, diving into systems and problem-solving
 training.
 
 Things that exites me the most, and can serve as conversation starters for you:
-- System Programming Language (and python ofc).
+- System Programming Language.
 - Ergonomic Keyboards.
-- Backend Infrastructure & Distributed System.
+- Backend Infrastructure & System Internals.
 - Fitness, Strength training.
+- Reverse Engineering & Pwning
 - Compiler and Programming Languages.
-
-Apart from these I watch movies too, here is my [letterboxd link](https://letterboxd.com/priyanshoon/) (I recently started logging the movies I watch)
 
 ### Contact
 - **priyanshoon**[at]**proton**[dot]**me**
