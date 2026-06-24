@@ -1,5 +1,5 @@
 ---
-title: Cooked Pizzas
+title: No bullshit pizza guide
 author: Priyanshu Prasad Gupta
 pubDatetime: 2026-05-06
 featured: false
