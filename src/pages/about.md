@@ -17,18 +17,5 @@ Things that exites me the most, and can serve as conversation starters for you:
 Apart from these I watch movies too, here is my [letterboxd link](https://letterboxd.com/priyanshoon/) (I recently started logging the movies I watch)
 
 ### Contact
-Send mail: **priyanshoon**[at]**proton**[dot]**me**
-
-
-<!-- ## Here are some shows and movies I liked. -->
-<!---->
-<!-- | Movies                           | TV Shows        | Anime          | -->
-<!-- |----------------------------------|-----------------|----------------| -->
-<!-- | Masaan                           | Dark            | Naruto         | -->
-<!-- | Death Becomes Her                | Mr. Robot       | Bleach         | -->
-<!-- | The Curious Case of Benjamin Button | Dabba Cartel | Demon Slayer   | -->
-<!-- | Laila Majnu                      | Breaking Bad    | Spy x Family   | -->
-<!-- | Rockstar                         | True Detective                 | Solo Leveling  | -->
-<!-- | Animal                           |                 |                | -->
-<!-- | The Truman Show                  |                 |                | -->
-<!---->
+- **priyanshoon**[at]**proton**[dot]**me**
+- [PGP Encryption Key](https://keys.openpgp.org/vks/v1/by-fingerprint/A2E6290A85E93427AD171040DBFD7B9535CB352F) 
