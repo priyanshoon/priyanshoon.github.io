@@ -17,4 +17,5 @@ Things that exites me the most, and can serve as conversation starters for you:
 
 ### Contact
 - **priyanshoon**[at]**proton**[dot]**me**
-- [PGP Encryption Key](https://keys.openpgp.org/vks/v1/by-fingerprint/A2E6290A85E93427AD171040DBFD7B9535CB352F) 
+- [PGP Encryption Key](https://keys.openpgp.org/vks/v1/by-fingerprint/A2E6290A85E93427AD171040DBFD7B9535CB352F), verify: `A2E6 290A 85E9 3427 AD17  1040 DBFD 7B95 35CB 352F`
+- signal: `priyanshoon.97`
