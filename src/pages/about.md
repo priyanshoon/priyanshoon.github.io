@@ -3,17 +3,28 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-My name is Priyanshu Gupta, and I have deep interest on system programming and backend development.
-I enjoy exploring things under the hood, diving into systems and problem-solving. Apart from that I play chess and do strength 
-training.
+Hi! my name is Priyanshu, I like __nixos__, __neovim__ and __hacking__. 
+I am also into fitness like __strength training__. Whatever, I don't feel like writing much about myself because there
+isn't much to tell anyway.
 
-Things that exites me the most, and can serve as conversation starters for you:
-- System Programming Language.
-- Ergonomic Keyboards.
-- Backend Infrastructure & System Internals.
-- Fitness, Strength training.
-- Reverse Engineering & Pwning
-- Compiler and Programming Languages.
+Things that can serve as conversation starters for you are given below -
+
+- System programming language (except rust)
+- Ergonomic keyboards
+- Playing chess
+- Hacking networks, system and all that shit
+
+<!-- My name is Priyanshu Gupta, and I have deep interest on system programming and backend development. -->
+<!-- I enjoy exploring things under the hood, diving into systems and problem-solving. Apart from that I play chess and do strength  -->
+<!-- training. -->
+<!---->
+<!-- Things that exites me the most, and can serve as conversation starters for you: -->
+<!-- - System Programming Language. -->
+<!-- - Ergonomic Keyboards. -->
+<!-- - Backend Infrastructure & System Internals. -->
+<!-- - Fitness, Strength training. -->
+<!-- - Reverse Engineering & Pwning -->
+<!-- - Compiler and Programming Languages. -->
 
 ### Contact
 - **priyanshoon**[at]**proton**[dot]**me**

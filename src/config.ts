@@ -7,7 +7,7 @@ export const SITE = {
   ogImage: "aizen_in_spec.jpg",
   lightAndDarkMode: true,
   postPerIndex: 2,
-  postPerPage: 5,
+  postPerPage: 15,
   scheduledPostMargin: 15 * 60 * 1000,
   showArchives: true,
   showBackButton: true,

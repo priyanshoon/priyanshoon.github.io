@@ -2,7 +2,7 @@
 title: Switching to KDE
 author: Priyanshu Prasad Gupta
 pubDatetime: 2026-07-08
-featured: true
+featured: false
 draft: false
 tags:
   - linux
