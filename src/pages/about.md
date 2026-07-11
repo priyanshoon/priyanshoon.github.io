@@ -14,6 +14,8 @@ Things that can serve as conversation starters for you are given below -
 - Playing chess
 - Hacking networks, system and all that shit
 
+[Here is my resume (hire me ~_~)](main.pdf)
+
 <!-- My name is Priyanshu Gupta, and I have deep interest on system programming and backend development. -->
 <!-- I enjoy exploring things under the hood, diving into systems and problem-solving. Apart from that I play chess and do strength  -->
 <!-- training. -->
