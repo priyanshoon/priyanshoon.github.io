@@ -10,6 +10,8 @@ tags:
 description: "Switching from window managers such as hyprland/niri to desktop environment like KDE"
 ---
 
+update: I'm using KDE and niri both.
+
 Not so long ago, I have been using Hyprland as my window manager. It was great, it has so many functionality 
 out of the box. After a while my interest goes towards niri, and man, niri is way too good. I like it's 
 infinite scrolling functionality too much that I don't want to go to any other wm or de.
