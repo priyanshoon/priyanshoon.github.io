@@ -134,6 +134,12 @@ const structuredData = {
   </head>
   <body>
     <slot />
+    <img
+      class="power-character"
+      src="/assets/images/maki.png"
+      alt=""
+      aria-hidden="true"
+    />
   </body>
 </html>
 
@@ -143,5 +149,15 @@ const structuredData = {
     margin: 0;
     width: 100%;
     height: 100%;
+  }
+
+  .power-character {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+    width: clamp(8rem, 20vw, 18rem);
+    max-height: 55svh;
+    pointer-events: none;
   }
 </style>
