@@ -29,6 +29,6 @@ Things that can serve as conversation starters for you are given below -
 <!-- - Compiler and Programming Languages. -->
 
 ### Contact
-- **priyanshoon**[at]**proton**[dot]**me**
+- Email: **priyanshoon**[at]**proton**[dot]**me**
 - [PGP Encryption Key](https://keys.openpgp.org/vks/v1/by-fingerprint/A2E6290A85E93427AD171040DBFD7B9535CB352F), verify: `A2E6 290A 85E9 3427 AD17  1040 DBFD 7B95 35CB 352F`
-- signal: `priyanshoon.97`
+- Signal: `priyanshoon.97`
