@@ -21,7 +21,7 @@ html[data-theme="light"] {
 /* } */
 
 html[data-theme="dark"] {
-  --background: #100f0f;
+  --background: #333333;
   /* --background: #131116; */
   --foreground: #CBCBCA;
   --accent: #ff6b01;
