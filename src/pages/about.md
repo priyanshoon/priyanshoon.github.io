@@ -30,5 +30,23 @@ Things that can serve as conversation starters for you are given below -
 
 ### Contact
 - Email: **priyanshoon**[at]**proton**[dot]**me**
-- [PGP Encryption Key](https://keys.openpgp.org/vks/v1/by-fingerprint/A2E6290A85E93427AD171040DBFD7B9535CB352F), verify: `A2E6 290A 85E9 3427 AD17  1040 DBFD 7B95 35CB 352F`
-- Signal: `priyanshoon.97`
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEajpfiRYJKwYBBAHaRw8BAQdAEJcDafiU0AQSse0DDIVwLzvJ3fyGW8Vw/cWL
+0/F/igC0TlByaXlhbnNodSBHdXB0YSAoYSByZWFsIGh1bWFuIGJlaW5nLCBhbmQg
+YSByZWFsIGhlcm8hKSA8cHJpeWFuc2hvb25AcHJvdG9uLm1lPoiQBBMWCgA4FiEE
+ouYpCoXpNCetFxBA2/17lTXLNS8FAmo6X4kCGwMFCwkIBwIGFQoJCAsCBBYCAwEC
+HgECF4AACgkQ2/17lTXLNS9f2wEAyHAKtsv9lF6Wb4qPuA+KBOg9m9XUSiX2Nk/7
+7rj6wkQA/RqV4D15GSwhCMNKFodhwvkDO6h+KgUDDp//5KrPxawMuDgEajpfiRIK
+KwYBBAGXVQEFAQEHQJ9eeQJO+USAipsBRLPwb6aDfVXbwdxmKpllHmhICXkiAwEI
+B4h4BBgWCgAgFiEEouYpCoXpNCetFxBA2/17lTXLNS8FAmo6X4kCGwwACgkQ2/17
+lTXLNS9GJAD9GvQaRVPaoFn8/3DqNluvFMtMFaIzoCEn10uRrmw6CroA/3cOzUXb
+y5QMM6EMG2ITkujO/3e6nPsSEojJv4xxJdMJ
+=Dwpm
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+<!-- - [PGP Encryption Key](https://keys.openpgp.org/vks/v1/by-fingerprint/A2E6290A85E93427AD171040DBFD7B9535CB352F), verify: `A2E6 290A 85E9 3427 AD17  1040 DBFD 7B95 35CB 352F` -->
+<!-- - Signal: `priyanshoon.97` -->
