@@ -51,6 +51,8 @@ was pushing me from behind, saying…
 
 > Keep moving forward.
 
+![keep moving forward](./imgs/eren.png) 
+
 Although I did get exhausted while coming down, at that moment I was still
 thinking, “Why does the mountain have to end now? I wish it wouldn’t end.” To
 be honest, when I reached the end point, I didn’t feel anything. I was
