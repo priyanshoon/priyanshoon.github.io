@@ -4,7 +4,7 @@ title: "About"
 ---
 
 Hi! my name is Priyanshu, I like __nixos__, __neovim__ and __hacking__. 
-I am also into fitness like __strength training__. Whatever, I don't feel like writing much about myself because there
+I am also into fitness like __strength training__. Umm, I don't feel like writing much about myself because there
 isn't much to tell anyway.
 
 Things that can serve as conversation starters for you are given below -
