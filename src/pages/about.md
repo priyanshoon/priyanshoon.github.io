@@ -3,6 +3,8 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
+![my setup](../assets/images/desk.jpg) 
+
 Hi! my name is Priyanshu, I like __nixos__, __neovim__ and __hacking__. 
 I am also into fitness like __strength training__. Umm, I don't feel like writing much about myself because there
 isn't much to tell anyway.
@@ -10,6 +12,7 @@ isn't much to tell anyway.
 Things that can serve as conversation starters for you are given below -
 
 - System programming language (except rust)
+- Anything related to nix or nixos (i love nix)
 - Ergonomic keyboards
 - Playing chess
 - Hacking networks, system and all that shit
