@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://priyanshoon.me/",
+  website: "https://priyanshoon.github.io/",
   author: "Priyanshu Gupta",
   profile: "https://github.com/priyanshoon/",
   desc: "this is my little corner on the world wide web where I give my unpopular opinions.",
